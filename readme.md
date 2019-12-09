@@ -12,7 +12,7 @@ Built with:
 
 For API endpoints, see [here](https://github.com/adriantelles/django-Voting-app/blob/master/API.md).
 
-For React readme, see [here](https://github.com/azaleas/django-Voting-app/blob/master/voting_app/frontend/README.md).
+For React readme, see [here](https://github.com/adriantelles/django-Voting-app/blob/master/voting_app/frontend/README.md).
 
 ---
 
